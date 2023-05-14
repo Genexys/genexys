@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilia Borisenko ======================================================================================================================================  Frontend developer ------------------  * 🌍  I'm based in Tbilisi * ✉️  You can contact me at [magicilusha@gmail.com](mailto:magicilusha@gmail.com)
+<h1 align="center">Hi 👋, I'm Ilia Borisenko</h1>
+<h3 align="center">A passionate frontend developer from world</h3>
+
+---
+
+* 🌍  I'm based in Tbilisi 
+*  ✉️  You can contact me at [magicilusha@gmail.com](mailto:magicilusha@gmail.com)
 
 <a href="https://www.github.com/genexys" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/genexys?logo=github&style=for-the-badge&color=f97316&labelColor=14532d" /></a><a href="https://www.twitter.com/2nd_suck" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/2nd_suck?logo=twitter&style=for-the-badge&color=f97316&labelColor=14532d" /></a><a href="https://www.twitch.tv/genexys" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/genexys?logo=twitchsx&style=for-the-badge&color=f97316&labelColor=14532d&label=TWITCH+STATUS" /></a>
 ### Skills  
