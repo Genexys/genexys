@@ -17,7 +17,7 @@ Building web experiences with TypeScript, React & Next.js
 
 ### About
 
-Frontend developer focused on building performant, user-facing applications. Currently working on [Localie](https://github.com/genexys) — an event and tour booking platform built with a Next.js monorepo architecture.
+Frontend developer focused on building performant, user-facing applications. Currently working on [Localie](https://localie.co/localie-app) — an event and tour booking platform built with a Next.js monorepo architecture.
 
 Day-to-day I work across the full frontend stack: component architecture, animations, payment integrations, CI/CD pipelines, and occasionally dive into the backend when needed.
 
